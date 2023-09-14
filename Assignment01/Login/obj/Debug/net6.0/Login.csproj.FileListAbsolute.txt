@@ -1,0 +1,12 @@
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\bin\Debug\net6.0\Login.deps.json
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\bin\Debug\net6.0\Login.dll
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\bin\Debug\net6.0\Login.pdb
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\obj\Debug\net6.0\Login.csproj.AssemblyReference.cache
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\obj\Debug\net6.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\obj\Debug\net6.0\Login.AssemblyInfoInputs.cache
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\obj\Debug\net6.0\Login.AssemblyInfo.cs
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\obj\Debug\net6.0\Login.csproj.CoreCompileInputs.cache
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\obj\Debug\net6.0\Login.dll
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\obj\Debug\net6.0\refint\Login.dll
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\obj\Debug\net6.0\Login.pdb
+D:\Raven\PracticeExercise\Phase03\Assignment\Assignment01\Login\obj\Debug\net6.0\ref\Login.dll

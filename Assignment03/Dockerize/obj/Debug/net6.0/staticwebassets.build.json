@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eemJmJ3xlZOtHyfGYZBuQvHXXSNLUZnJnVvZt3F9AgA=",
+  "Source": "Dockerize",
+  "BasePath": "_content/Dockerize",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
